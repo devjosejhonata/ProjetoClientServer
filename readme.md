@@ -9,5 +9,5 @@ Faz a união de 2 projetos já desenvolvidos, gerenciamento de usuarios mais o R
 - Nesse projeto utilizei o Node.js para rodar o JavaScript no lado do servidor, utilizei o Framework express, utilizei o Framework Restify para consumir a API criada, utilizei o Postman para testar APIs e utilizei o banco de dados java script NeDB para guardar as informações recebidas pelo usuário.
 
 Também foi utilizado um pouco de ajax nesse projeto, sabemos que ajax não é muito utilizado nos dias de hoje, mas para fins de estudo, deu para ter uma boa noção dessa tecnologia.
-
-Gosto de fazer comentários em cada arquivo e funcionalidade dos códigos, para ficar mais fácil o entendimento.
+![img1](https://github.com/devjosejhonata/ProjetoClientServer/assets/152452859/7f8f60e9-60d1-4833-849a-5333ea07d93c)
+![img2](https://github.com/devjosejhonata/ProjetoClientServer/assets/152452859/98fd8170-55d1-4504-8625-03589a0cc152)
